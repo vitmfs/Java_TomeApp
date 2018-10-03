@@ -4,6 +4,10 @@ public class MainTomeApp {
     
         System.out.println( "Application started!" );
         
+        System.out.println( "I made the first change" );
+        
+        System.out.println( "I made the second change" );
+        
         
         
         
